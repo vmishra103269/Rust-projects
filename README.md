@@ -1,2 +1,2 @@
-# better-c
-My custom header files giving the C programming Language better syntax
+# Rust Projects
+Projects and Examples written by me in Rust
